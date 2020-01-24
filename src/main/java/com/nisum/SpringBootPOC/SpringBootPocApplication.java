@@ -5,5 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootPocApplication {
 public static void main(String[] args) {
 		SpringApplication.run(SpringBootPocApplication.class, args);
+		
+		System.out.println("first commit");
 	}
 }
